@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138001613051",
+    "project_id": "norm-chat",
+    "storage_bucket": "norm-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138001613051:android:03a063f778d8c5d7fbb05e",
+        "android_client_info": {
+          "package_name": "com.rikx.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138001613051-089g1tcoeljk39mr9dc0kg78cr72ffue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAD_0pzQnP_Y_pcNkSkieM-VYPKocskPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138001613051-089g1tcoeljk39mr9dc0kg78cr72ffue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

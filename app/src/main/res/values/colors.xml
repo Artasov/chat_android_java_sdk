@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2D1C46</color>
+    <color name="primary_darck">#142232</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="input_background">#ECECEC</color>
+    <color name="icon_background">#20FFFFFF</color>
+    <color name="error">#B00020</color>
+    <color name="fon_chat">#AFFFE6</color>
+    <color name="received_message_background">#090D16</color>
+</resources>
